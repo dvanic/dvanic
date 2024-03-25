@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Darya Vanichkina, a Data Science Group Lead and Professional Educator. 
+### I'm Darya Vanichkina, a Data Science & AI Group Lead and Professional Educator. 
 
 - 👩‍💻 I'm a Data Science & AI Group Lead at the Sydney Informatics Hub, University of Sydney
 - 🌏 I love using data to solve real-world problems
