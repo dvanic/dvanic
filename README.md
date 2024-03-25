@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-### I'm Darya Vanichkina, a Data Science Consultant and Professional Educator. 
+### I'm Darya Vanichkina, a Data Science Group Lead and Professional Educator. 
 
-- 👩‍💻I work as a Data Scientist & Analytics Trainer at the Sydney Informatics Hub, University of Sydney
+- 👩‍💻 I'm a Data Science & AI Group Lead at the Sydney Informatics Hub, University of Sydney
 - 🌏 I love using data to solve real-world problems
-- 🎓 I teach others how to use R and python to work better and faster
-- 🐦 Reach out to me at @dvanichkina on Twitter or see [my website](https://daryavanichkina.com/) or [LinkedIN](https://www.linkedin.com/in/daryavanichkina/)
+- 🎓 I've spent over a decade training others how to use R and Python to work better and faster
+- 🐦 Reach out to me via [my website](https://daryavanichkina.com/) or [LinkedIN](https://www.linkedin.com/in/daryavanichkina/)
 
